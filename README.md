@@ -15,6 +15,7 @@ It improves the student's employbility skills.
 Since 15 years SSESC is storing the members data into files. Now you all know todays Digital World.
 So I decided to make one softwere which will be helpful for my SSESC club.
 I collected all the requirements of this club from Prof.Vitthal Vanga & Rahul Vanga and I made it.
+
 I got this inspiration from my friend Nilesh Chilka to make this softwere efficiently.
 
 
