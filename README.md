@@ -26,19 +26,19 @@ I got this inspiration from my friend Nilesh Chilka to make this softwere effici
 The Code is written in Python 3.7. If you don't have Python installed you can find it here. If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after cloning the repository:
 
 
-1.Download the repository
+   1.Download the repository
 
 ``` markdown
       $ git clone https://github.com/BalajiDyavanpalli7030/SSESC-Management-System
 ```
 
-2.Locate repository
+   2.Locate repository
 
 ``` markdown 
       $ cd SSESC-Management-System
 ```
 
-3.Install requirements.txt
+   3.Install requirements.txt
 ``` markdown
       pip install -r requirements.txt
 ```
