@@ -56,11 +56,11 @@ In that program we have different rounds which are so helpful to improve softski
 
 
 ### Theme & Anchors
-<img src = https://github.com/BalajiDyavanpalli7030/SSESC-Management-System/blob/master/sarathi4.PNG"
+<img src = https://github.com/BalajiDyavanpalli7030/SSESC-Management-System/blob/master/sarathi4.PNG
       alt = "HTML Tutorial" height="300" width = "300" />
       
 
-<img src = https://github.com/BalajiDyavanpalli7030/SSESC-Management-System/blob/master/sarathi5.PNG"
+<img src = https://github.com/BalajiDyavanpalli7030/SSESC-Management-System/blob/master/sarathi5.PNG
       alt = "HTML Tutorial" height="300" width = "300" />
       
 Every sunday SSESC have a different theme and different anchors.
@@ -70,13 +70,22 @@ So I have added one function to edit theme and anchors.
 Executive Body leads the Every program.
 In EXECUTIVE BODY SSESC have every member with different post like President,vice president,
 Secretary ,joint secretary and body members.
+
 So I have kept one block to Store and retrieve every body members data i.e Executive Body
 
+<img src = https://github.com/BalajiDyavanpalli7030/SSESC-Management-System/blob/master/sarathi3.PNG
+      alt = "HTML Tutorial" height="300" width = "300" />
 
 
 
-
+### Todays Members
 
 In this Softwere Todays Members refers to how many members came for that Sunday.
+
+
+<img src = https://github.com/BalajiDyavanpalli7030/SSESC-Management-System/blob/master/sarathi2.PNG
+      alt = "HTML Tutorial" height="300" width = "300" />
+
+
 
 
